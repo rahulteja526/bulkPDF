@@ -1,5 +1,4 @@
 # bulkPDF
-## This repo is useful for bulk DOCX/PDF creation from CSV data rows
 
 Hi,
 
@@ -15,3 +14,5 @@ Instructions:
 4. Install the packages using the 'requirements.txt' (use "pip install -r requirements.txt", if you are using a virtual environment).
 5. run the createBulk.py file.
 6. See the magic in the folders "Doc" and "PDF".
+
+_Note: This code block will only work on Windows OS_
